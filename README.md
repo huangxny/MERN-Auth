@@ -1,5 +1,8 @@
 # MERN-Auth
 Starter code for MERN project that needs user authentication
+- Use vite and express-generator
+- Native mongoDB, native fetch
+- React and express running on same server, no CORS
 
 how to use:
 1. create empty git project repo with .gitignore -node
