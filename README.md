@@ -11,7 +11,7 @@ how to use:
 4. add .env, in .env provide MONGODB_URI
 5. npm install
 6. cd front, then npm install
-7. in front, npm run dev to check, then npm run build
+7. in front, npm run dev to check, then npm run build (npm run build needed every time after changes made to react app)
 8. cd .. go back to root
 9. npm start
 10. localhost:3000, f12, check everything before add new code
